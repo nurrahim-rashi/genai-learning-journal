@@ -6,8 +6,8 @@ I'm working through Microsoft's [Generative AI for Beginners](https://github.com
 
 ## How this repo is organized
 
-- [`notes/`](./notes/): one file per lesson, in my own words
-- [`experiments/`](./experiments/): code I wrote while playing with the ideas from each lesson
+- [`notes/`](./notes/): one file per day (`day-NN-name.md`), in my own words
+- [`experiments/`](./experiments/): one folder per day (`day-NN-name/`) with the code I wrote for that day's exercise
 - [`EXERCISES.md`](./EXERCISES.md): one exercise per day, taken from the course's assignments and challenges
 
 ## Progress

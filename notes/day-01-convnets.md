@@ -1,4 +1,4 @@
-# Review: Image classification
+# Day 1: Convolutional neural networks
 
 Date: 2026-10-11
 
@@ -22,7 +22,7 @@ _Explain the main idea as if to a friend who has never heard of it._
 
 _Link to anything in `experiments/` and say what happened, including what broke._
 
-- [`experiments/review-image-classification/ConvNetsTF.ipynb`](../experiments/review-image-classification/ConvNetsTF.ipynb)
+- [`experiments/day-01-convnets/ConvNetsTF.ipynb`](../experiments/day-01-convnets/ConvNetsTF.ipynb)
 
 ## Questions I still have
 

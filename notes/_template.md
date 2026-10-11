@@ -1,4 +1,4 @@
-# Lesson NN: Title
+# Day NN: Title
 
 Date:
 
